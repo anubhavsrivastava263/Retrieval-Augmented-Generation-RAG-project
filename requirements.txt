@@ -10,3 +10,4 @@ accelerate
 sentencepiece
 rank-bm25
 pypdf
+torchvision
